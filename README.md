@@ -11,12 +11,12 @@ Just Import the package.
 npm i check-user-network-status
 ```
 
-#### ◎ Import
+### ◎ Import
 ```js
 import useNetworkStatus from 'check-user-network-status';
 ```
 
-#### ◎ Usage
+### ◎ Usage
 ```js
 function App() {
  const networkStatus = useNetworkStatus();
@@ -24,7 +24,7 @@ function App() {
 }
 ```
 
-## ◎ Examples
+## ◎ Example
 
 ```javascript
 import useNetworkStatus from 'check-user-network-status';
