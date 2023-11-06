@@ -1,0 +1,24 @@
+{
+  "name": "check-network-status",
+  "version": "1.0.0",
+  "description": "React hook to check network status is online or offline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Network",
+    "Internet",
+    "status",
+    "access",
+    "accessible",
+    "detect",
+    "find",
+    "online",
+    "offline",
+    "react",
+    "javascript"
+  ],
+  "author": "Vaishnavi Mahajan",
+  "license": "ISC"
+}
